@@ -4,7 +4,7 @@ import C2 from './C2'
 import C3 from './C3'
 function Collection() {
   return (
-    <div className='flex flex-wrap justify-center'>
+    <div className='flex flex-wrap justify-center m-5'>
       <C1/>
       <C2/>
       <C3/>
