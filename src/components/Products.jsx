@@ -7,7 +7,7 @@ import P4 from './P4'
 function Products() {
   return (
   <>
-  <h1 className='text-lg justify-center text-center'>Featured Products</h1>
+  <h1 className='text-lg justify-center text-center m-5'>Featured Products</h1>
     <div className='flex flex-wrap justify-center items-center'>
       <P1/>
       <P2/>
